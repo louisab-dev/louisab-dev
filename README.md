@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://github.com/0xjustlouis/0xjustlouis/blob/main/assets/hi.gif">
+  <img src="https://github.com/iamlouislab/iamlouislab/blob/main/assets/hi.gif">
 </p>
 
 <h2 align="center"> 👨‍💻 About Me </h2>
 <p align="center">
   <samp>I'm a first year student at ENSEEIHT in Toulouse focusing on Computer Science and Networks. I love automation and I'm always looking for new ways to improve myself.</samp>
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=0xjustlouis" alt="https://github.com/0xjustlouis" />
+  <img src="https://komarev.com/ghpvc/?username=iamlouislab" alt="https://github.com/iamlouislab" />
 </p>
 
 <hr>
@@ -14,8 +14,8 @@
 <h2 align="center"> 📈 Some statistics </h2>
 <p align="center">
   
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=0xjustlouis&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xjustlouis&hide=TeX&layout=compact&theme=dark)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=iamlouislab&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlouislab&hide=TeX&layout=compact&theme=dark)
 
 </p>
 
@@ -30,7 +30,7 @@
 
 
 <!--
-**0xjustlouis/0xjustlouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iamlouislab/iamlouislab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ReadMe inspiration from : https://github.com/Ileriayo/ileriayo/blob/master/README.md
 
