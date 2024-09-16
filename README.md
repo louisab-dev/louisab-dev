@@ -14,8 +14,8 @@
 <h2 align="center"> 📈 Some statistics </h2>
 <p align="center">
   
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=iamlouislab&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlouislab&hide=TeX&layout=compact&theme=dark)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=louisab-dev&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louisab-dev&hide=TeX&layout=compact&theme=dark)
 
 </p>
 
