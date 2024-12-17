@@ -4,7 +4,7 @@
 
 <h2 align="center"> 👨‍💻 About Me </h2>
 <p align="center">
-  <samp>I'm a first year student at ENSEEIHT in Toulouse focusing on Computer Science and Networks. I love automation and I'm always looking for new ways to improve myself.</samp>
+  <samp>I like to build stuff.</samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=iamlouislab" alt="https://github.com/iamlouislab" />
 </p>
@@ -24,7 +24,7 @@
 <h2  align="center"> 📫 How to contact me </h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/louis-amoros-bessede/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/0xlouis_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/louisabdev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:louisamorosbessede@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
